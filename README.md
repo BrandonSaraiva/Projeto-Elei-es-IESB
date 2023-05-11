@@ -16,7 +16,7 @@ PostgreSQL até a análise dos dados por meio de Python e SAS.
 **Organização do Trabalho**
 
 *Em busca de uma maior eficiência na realização deste trabalho, o mesmo foi
-subdividido em 4 etapas:*
+subdividido em 3 etapas:*
 #  Criação da estrutura de Engenharia de Dados
 Após a normalização das bases, foram desenvolvidas tabelas com restrições de
 integridade e declaração de chaves primárias e estrangeiras no banco de dados PostgreSQL.
