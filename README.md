@@ -1,30 +1,30 @@
-# Projeto Ciencia de Dados IESB
+# IESB Data Science Project
 
-Este trabalho é a cristalização dos conhecimentos adquiridos nas disciplinas de
-“Banco de Dados e Tecnologias de Big Data” e “Estatística Aplicada para Ciência de
-Dados”, ministradas durante o segundo semestre do curso de Ciência de Dados e Inteligˆencia
-Artificial, com o objetivo de desenvolver uma análise descritiva completa dos dados
-relacionados as Eleições Gerais Ordinárias realizadas no Brasil em 2022, para escolha
-dos representantes no legislativo do Distrito Federal (Governador, Senador, Deputado
-Federal e Deputado Distrital) e no Executivo Federal (para os cargos de Presidente e
-Vice-Presidente da República). Este trabalho representa as diferentes etapas da criação de
-tal análise, desde a extração dos dados, criação e carregamento em um banco de dados
-PostgreSQL até a análise dos dados por meio de Python e SAS.
+This work is the crystallization of the knowledge acquired in the disciplines of
+“Database and Big Data Technologies” and “Applied Statistics for Science
+Data”, taught during the second semester of the Data Science and Intelligence course
+Artificial, with the aim of developing a complete descriptive analysis of the data
+related to the Ordinary General Elections held in Brazil in 2022, to choose
+of representatives in the Federal District's legislature (Governor, Senator, Deputy
+Federal and District Deputy) and in the Federal Executive (for the positions of President and
+Vice-President of the Republic). This work represents the different stages of creating
+such analysis, from data extraction, creation and loading into a database
+PostgreSQL to data analysis using Python and SAS.
 
 
-------------------------------------------------------------
-**Organização do Trabalho**
+-------------------------------------------------- ----------
+**Work Organization**
 
-*Em busca de uma maior eficiência na realização deste trabalho, o mesmo foi
-subdividido em 3 etapas:*
-#  Criação da estrutura de Engenharia de Dados
-Após a normalização das bases, foram desenvolvidas tabelas com restrições de
-integridade e declaração de chaves primárias e estrangeiras no banco de dados PostgreSQL.
-# Análise exploratória
-Para a análise exploratória, foram executadas análises univariadas de todas as
-tabelas além de análises multivariadas com a comparação de variáveis como a contagem
-de votos, cargos e partidos.
-# Elaboração de Arquivo Textual
-Visando a exposição das constatações obtidas, este arquivo foi desenvolvido com
-auxílio da linguagem LaTeX, possuindo o detalhamento da execução de cada etapa do
-processo científico e os resultados obtidos.
+*In search of greater efficiency in carrying out this work, it was
+subdivided into 3 stages:*
+# Creation of the Data Engineering structure
+After normalizing the bases, tables were developed with restrictions on
+integrity and declaration of primary and foreign keys in the PostgreSQL database.
+# Exploratory analysis
+For the exploratory analysis, univariate analyzes were performed on all
+tables in addition to multivariate analyzes with the comparison of variables such as count
+of votes, positions and parties.
+# Creation of Textual File
+Aiming to present the findings obtained, this file was developed with
+aid of the LaTeX language, with details of the execution of each stage of the
+scientific process and the results obtained.
